@@ -14,9 +14,12 @@
  *    series(3,6); //  returns 18. coz, 3 + 4 + 5 + 6
  */ 
 int series(int a, int b){
-    //Write code here
+    int sum;
+    
+    sum = a + b;
+    
 
-    return 0; //EDIT THIS
+    return sum; 
 }
 
 
